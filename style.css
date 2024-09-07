@@ -1,0 +1,24 @@
+body{
+    font-size: larger;
+}
+
+h1, h2  {
+    color: rgb(3, 0, 6);
+    text-decoration: underline;
+}
+
+h3 {
+    color: brown;
+     
+}
+
+.second {
+    /* this is the use of class by . */
+    color: rgb(67, 4, 156);
+    
+}
+
+#third {
+    /* this is the use of id by # */
+    color: green;
+}
