@@ -1,5 +1,6 @@
-body{
+/* body{
     font-size: larger;
+    border:10px solid blue;
 }
 
 h1, h2  {
@@ -9,16 +10,34 @@ h1, h2  {
 
 h3 {
     color: brown;
+    font-weight: 400;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
      
+}
+
+h3 span{
+    text-transform: uppercase;
+    background: chartreuse;
 }
 
 .second {
     /* this is the use of class by . */
-    color: rgb(67, 4, 156);
+    /* color: rgb(67, 4, 156);
     
 }
 
 #third {
     /* this is the use of id by # */
-    color: green;
-}
+    /* color: green;
+} *
+
+
+
+/* colors  */
+
+
+/* h3{
+    color: red;
+} */
+
+
